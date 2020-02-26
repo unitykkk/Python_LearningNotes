@@ -1,2 +1,2 @@
 # Python_LearningNotes
-Python learning notes
+本仓库只允许上传私人笔记，上传文档以markdown格式上传，不允许上传
